@@ -1,0 +1,19 @@
+
+.flag-container{
+    height: 300px;
+    width: 600px ;
+    display: flex;
+    box-shadow: 5px 5px 5px grey;
+}
+.column-blue{
+    background-color: #002654;
+    flex: 1;
+}
+.column-white{
+    background-color: white;
+    flex: 1;
+}
+.column-red{
+    background-color: #ED2939;
+    flex: 1;
+}

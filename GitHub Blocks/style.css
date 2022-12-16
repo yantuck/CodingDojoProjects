@@ -1,0 +1,51 @@
+.row1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+
+}
+.row2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+.pagecontainer{
+    background-color: grey;
+    width: 1000px;
+    justify-content: center;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+h1,h3{
+    text-align: center;
+}
+.container1{
+    background-color: lightblue;
+    width: 1000px;
+
+
+}
+.container2{
+    background-color: pink;
+    width: 1000px;
+
+
+}
+.container3{
+    background-color: white;
+    width: 1000px;
+
+
+}

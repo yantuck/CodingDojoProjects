@@ -1,0 +1,22 @@
+h1{
+    background-color: black;
+}
+.is-white {
+    color: white;
+}
+.is-lightblue {
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color:white;
+    background-color: purple;
+}
+h3{
+    text-align: right;
+    text-decoration:underline;
+    color: purple;
+    background-color: lightblue;
+
+}
